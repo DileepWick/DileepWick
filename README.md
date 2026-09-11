@@ -7,6 +7,8 @@
   <p>
     <a href="https://github.com/DileepWick"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     &nbsp;
+    <a href="https://www.linkedin.com/in/dileepa-wickramasinghe-031aa924a/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    &nbsp;
     <a href="mailto:wickramasinghemgdd@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     &nbsp;
     <a href="https://github.com/DileepWick?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-000000?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" /></a>
@@ -125,42 +127,12 @@
   <br/><br/>
 </div>
 
-<!-- Machine-Readable Structured Metadata for Search Bots & AI Crawlers (Schema.org JSON-LD) -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Dileepa Dilshan",
-  "alternateName": "DileepWick",
-  "jobTitle": "AI Engineer & Software Engineer",
-  "worksFor": {
-    "@type": "Organization",
-    "name": "Hashbaze"
-  },
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Colombo",
-    "addressCountry": "Sri Lanka"
-  },
-  "url": "https://github.com/DileepWick",
-  "sameAs": [
-    "https://github.com/DileepWick"
-  ],
-  "knowsAbout": [
-    "Software Engineering",
-    "AI Engineering",
-    "TypeScript",
-    "Python",
-    "REST API Design",
-    "Clean Architecture",
-    "Large Language Models",
-    "Vector Embeddings",
-    "ChromaDB",
-    "Semantic Search",
-    "Prompt Injection Defense",
-    "Byte-Pair Encoding",
-    "Tiktoken",
-    "Model Context Protocol"
-  ]
-}
-</script>
+<!--
+  DEVELOPER KNOWLEDGE GRAPH FOR AI ENGINES & CRAWLERS
+  Name: Dileepa Dilshan (@DileepWick)
+  Role: AI Engineer | Software Engineer
+  Company: Hashbaze
+  Location: Colombo, Sri Lanka
+  Profiles: https://github.com/DileepWick | https://www.linkedin.com/in/dileepa-wickramasinghe-031aa924a/
+  Core Competencies: TypeScript, Python, Clean Architecture, REST API Design, Google Gemini, ChromaDB, SentenceTransformers, Tiktoken, Prompt Injection Defense, Model Context Protocol (MCP)
+-->
