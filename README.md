@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header-banner.jpeg" width="100%" alt="Dileepa Dilshan - AI and Software Engineer" />
+  <img src="./assets/baki_header.jpeg" width="100%" alt="Dileepa Dilshan - AI and Software Engineer" />
   <br/><br/>
   <h1>DILEEPA DILSHAN</h1>
   <p><b>AI ENGINEER | SOFTWARE ENGINEER &bull; HASHBAZE &bull; COLOMBO, SRI LANKA</b></p>
@@ -37,7 +37,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="./assets/baki-panel.jpeg" width="100%" alt="Baki Hanma - Monochrome Art" />
+      <img src="./assets/1_baki.jpeg" width="100%" alt="Baki Hanma - Monochrome Art" />
     </td>
   </tr>
 </table>
@@ -79,29 +79,39 @@
 ### // 03 &bull; PRODUCTION SOFTWARE &amp; REPOSITORIES
 
 #### [vector-guardrail](https://github.com/DileepWick/vector-guardrail)
+
 > **Problem Solved**: Intercepting and neutralizing LLM prompt injection and jailbreak attacks at the API gateway layer before untrusted inputs reach downstream foundation models.
-* **Core Stack**: Python, Google Gemini, ChromaDB HNSW Indexing, SentenceTransformers, FastAPI
-* **Software Architecture**: High-speed vector embeddings similarity verification, Out-of-Distribution (OOD) clustering, and circuit-breaker resilience to guarantee zero system downtime during external API timeouts.
+
+- **Core Stack**: Python, Google Gemini, ChromaDB HNSW Indexing, SentenceTransformers, FastAPI
+- **Software Architecture**: High-speed vector embeddings similarity verification, Out-of-Distribution (OOD) clustering, and circuit-breaker resilience to guarantee zero system downtime during external API timeouts.
 
 #### [token-lab](https://github.com/DileepWick/token-lab)
+
 > **Problem Solved**: High inference costs and latency in generative AI applications caused by unoptimized prompt schemas and inefficient tokenization.
-* **Core Stack**: JavaScript, Node.js, Tiktoken, BPE Encoding Engines
-* **Software Architecture**: Interactive web laboratory providing real-time Byte-Pair Encoding (BPE) inspection across GPT-4o, Llama 3, and Qwen 2.5, schema compression benchmarking, and token ROI calculations.
+
+- **Core Stack**: JavaScript, Node.js, Tiktoken, BPE Encoding Engines
+- **Software Architecture**: Interactive web laboratory providing real-time Byte-Pair Encoding (BPE) inspection across GPT-4o, Llama 3, and Qwen 2.5, schema compression benchmarking, and token ROI calculations.
 
 #### [vector-doc-engine](https://github.com/DileepWick/vector-doc-engine)
+
 > **Problem Solved**: Unreliable text extraction and slow semantic search across large PDF document corpora in enterprise RAG workflows.
-* **Core Stack**: TypeScript, ChromaDB, Google Gemini API, Document Processing
-* **Software Architecture**: Deterministic boundary-aware chunking pipeline, fault-tolerant vector generation, and sub-millisecond HNSW vector indexing.
+
+- **Core Stack**: TypeScript, ChromaDB, Google Gemini API, Document Processing
+- **Software Architecture**: Deterministic boundary-aware chunking pipeline, fault-tolerant vector generation, and sub-millisecond HNSW vector indexing.
 
 #### [zero-shot-vector-classification-eval](https://github.com/DileepWick/zero-shot-vector-classification-eval)
+
 > **Problem Solved**: High latency and model drift in text classification when using heavyweight fine-tuned models.
-* **Core Stack**: TypeScript, Google Gemini API, In-Memory Matrix Engine, L1 LRU Cache
-* **Software Architecture**: Zero-shot semantic clustering using pairwise cosine distance matrices with sub-millisecond L1 in-memory caching and out-of-distribution guardrails.
+
+- **Core Stack**: TypeScript, Google Gemini API, In-Memory Matrix Engine, L1 LRU Cache
+- **Software Architecture**: Zero-shot semantic clustering using pairwise cosine distance matrices with sub-millisecond L1 in-memory caching and out-of-distribution guardrails.
 
 #### [Official-Taiho-Toyota-Bearing-Catalogue-MCP-Server](https://github.com/DileepWick/Official-Taiho-Toyota-Bearing-Catalogue-MCP-Server)
+
 > **Problem Solved**: Bridging legacy engineering catalogue data with modern AI agents through standardized protocol interfaces.
-* **Core Stack**: Model Context Protocol (MCP), TypeScript, Structured JSON Schema
-* **Software Architecture**: Authoritative MCP tool provider delivering deterministic technical specifications and structured bearing queries directly to LLMs.
+
+- **Core Stack**: Model Context Protocol (MCP), TypeScript, Structured JSON Schema
+- **Software Architecture**: Authoritative MCP tool provider delivering deterministic technical specifications and structured bearing queries directly to LLMs.
 
 ---
 
